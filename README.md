@@ -2,31 +2,24 @@
 
 Projeto da UNIFESO - Teresópolis RJ
 
-## Integrantes
-- Samuel Medeiros
-- Coloque aqui os outros nomes do grupo
+## Finalidade
+Este projeto é o MVP (Produto Mínimo Viável) da disciplina de Back-End. 
+O objetivo é criar uma API para o Circuito Terê-Verde, permitindo listar parques e trilhas de Teresópolis, como Pedra do Sino, Cartão Postal e Pedra do elefante, facilitando o acesso a informações de turismo ecológico.
 
-## O Problema
-As trilhas e parques de Teresópolis (PARNASO, Parque Municipal, etc) não tem informações centralizadas. O turista não sabe se a trilha está aberta, qual a dificuldade e quanto tempo leva.
+## Integrantes do Grupo
+- Samuel Medeiros - 
+- Renan  Garcia  
+- Silas
+- Davi Soares
+- Rodrigo Campos
+- rick 
 
-## O que o Back-End faz (MVP)
-É uma API que guarda e lista:
-- Parques
-- Trilhas de cada parque
-- Dificuldade, tempo e se está aberta ou fechada
+## Como rodar o Back-End
+1. npm install
+2. npm start
+3. Acessar http://localhost:3000/api/trilhas
 
-## O que NÃO faz (Fora do Escopo)
-- NÃO faz reserva de ingresso
-- NÃO faz GPS em tempo real
-- NÃO faz pagamento
-- NÃO faz app de celular, só a API para o Front
-
-## Como rodar
-npm install
-npm start
-Roda em http://localhost:3000
-
-## Pastas
-/src - codigo da API
-/test - testes
-/data - dados das trilhas
+## Estrutura exigida no item 7
+- /src - Código da API
+- /data - Dados das trilhas
+- /test - Testes manuais
