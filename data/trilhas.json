@@ -1,7 +1,0 @@
-[
-  { "id": 1, "nome": "Pedra do Sino", "parque": "PARNASO", "dificuldade": "difícil", "distancia": "11km" },
-  { "id": 2, "nome": "Cartão Postal", "parque": "Parque Nacional da Serra dos Órgãos", "dificuldade": "média", "distancia": "1.2km" },
-  { "id": 3, "nome": "Pedra do Elefante", "parque": "Mirante do Soberbo", "dificuldade": "média", "distancia": "1.9km" },
-  { "id": 4, "nome": "Pedra da Tartaruga", "parque": "Parque Municipal Montanhas de Teresópolis", "dificuldade": "média", "distancia": "1.5km" },
-  { "id": 5, "nome": "Mulher de Pedra", "parque": "Parque Estadual dos Três Picos", "dificuldade": "difícil", "distancia": "6km" }
-]

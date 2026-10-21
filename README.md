@@ -9,17 +9,13 @@ O objetivo é criar um Back-End, construído em no Framework Django, contendo os
 ## Integrantes do Grupo
 - Samuel Medeiros - 
 - Renan  Garcia  
-- Silas
+- Silas Junior
 - Davi Soares
 - Rodrigo Campos
-- rick 
+- Rick 
 
 ## Como rodar o Back-End
-1. npm install
-2. npm start
-3. Acessar http://localhost:3000/api/trilhas
+
 
 ## Estrutura exigida no item 7
-- /src - Código da API
-- /data - Dados das trilhas
-- /test - Testes manuais
+
