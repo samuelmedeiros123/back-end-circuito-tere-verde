@@ -1,6 +1,6 @@
 # Circuito Terê-Verde - Trilhas e Parques
 
-Projeto da UNIFESO - Teresópolis RJ
+Projeto MVP Back End do Curso de Análise e Desenvolvimento de Sistemas - Unifeso - Teresópolis RJ
 
 ## Finalidade
 Este projeto é o MVP (Produto Mínimo Viável) da disciplina de Back-End. 
