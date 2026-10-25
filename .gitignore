@@ -4,3 +4,6 @@ __pycache__/
 db.sqlite3
 .env
 media/
+# Arquivos de ambiente do Postman com dados sensíveis
+*environment.json
+*.postman_environment.json
