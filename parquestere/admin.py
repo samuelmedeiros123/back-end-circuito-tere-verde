@@ -4,7 +4,7 @@ from .models import Parquestere, Trilhas, Atrações
 # Register your models here.
 
 class ParquestereAdmin(admin.ModelAdmin):
-    list_display = ('nome', 'lugar', 'descrição')
+    list_display = ('nome', 'lugar', 'descrição', 'image')  
     prepopulated_fields = {'slug': ('nome',)}   
     list_filter = ('nome', 'lugar')   
     search_fields = ('nome', 'lugar')  

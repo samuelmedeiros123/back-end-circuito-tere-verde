@@ -6,4 +6,3 @@ db.sqlite3
 media/
 # Arquivos de ambiente do Postman com dados sensíveis
 *environment.json
-*.postman_environment.json
